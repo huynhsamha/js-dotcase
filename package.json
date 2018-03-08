@@ -1,0 +1,35 @@
+{
+  "name": "js-dotcase",
+  "version": "1.0.0",
+  "description": "Dotcase the keys of an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhsamha/js-dotcase.git"
+  },
+  "keywords": [
+    "dotcase",
+    "js-dotcase",
+    "snake",
+    "underscore",
+    "underscore case",
+    "assign",
+    "extend",
+    "case",
+    "browser",
+    "browserify"
+  ],
+  "author": {
+    "name": "huynhsamha",
+    "email": "huynhsamha@gmail.com",
+    "url": "https://github.com/huynhsamha"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhsamha/js-dotcase/issues"
+  },
+  "homepage": "https://github.com/huynhsamha/js-dotcase#readme"
+}
